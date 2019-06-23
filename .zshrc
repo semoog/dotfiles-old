@@ -64,9 +64,17 @@ case $OSTYPE in
 esac
 
 case $(uname -a) in 
-	*Microsoft*) 
-		unsetopt BG_NICE
-	 	;; 
+    *Microsoft*) 
+        unsetopt BG_NICE
+        # ssh-agent auto-launch (0 = agent running with key; 1 = w/o key; 2 = not run.)
+        agent_run_state=$(ssh-add -l >| /dev/null 2>&1; echo $?)
+        if   [ $agent_run_state = 2 ]; then
+          eval $(ssh-agent -s)
+          ssh-add ~/.ssh/id_rsa
+        elif [ $agent_run_state = 1 ]; then
+          ssh-add ~/.ssh/id_rsa
+        fi
+        ;; 
 esac
 
 # Set iTerm2 tab titles
