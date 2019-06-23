@@ -63,6 +63,12 @@ case $OSTYPE in
         ;;
 esac
 
+case $(uname -a) in 
+	*Microsoft*) 
+		unsetopt BG_NICE
+	 	;; 
+esac
+
 # Set iTerm2 tab titles
 tabTitle() { echo -ne "\033]0;"$*"\007"; }
 
