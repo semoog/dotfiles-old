@@ -1,0 +1,20 @@
+[user]
+	email = sebmernst@gmail.com
+	signingkey = EDC43D4817BC3148
+	name = Sebastian Ernst
+[gpg]
+	program = /usr/local/bin/gpg
+[commit]
+	gpgsign = false
+	template = /Users/semo/.stCommitMsg
+[core]
+	excludesfile = /Users/semo/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[url "git@github.com:"]
+        pushInsteadOf = git://github.com/
+        pushInsteadOf = https://github.com/
