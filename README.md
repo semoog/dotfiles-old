@@ -28,8 +28,6 @@
 
 - [ZSH Setup](https://gingter.org/2016/08/17/install-and-run-zsh-on-windows/)
 
----
-
 ## Setup:
 
 [gist](https://gist.github.com/semoog/0fe4880781faa9eb2676b2455a619f87)
