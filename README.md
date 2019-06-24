@@ -4,23 +4,23 @@
 
 ### Dependencies:
 
-Install [git](https://git-scm.com/)
+- [git](https://git-scm.com/)
 
-Install [zsh / zsh-completions]()
+- [zsh / zsh-completions]()
 
-Install [oh-my-zsh](https://ohmyz.sh/)
+- [oh-my-zsh](https://ohmyz.sh/)
 
 ---
 
 #### Mac Specific
 
-Install [Homebrew](https://brew.sh)
+- [Homebrew](https://brew.sh)
 
 ---
 
 #### Windows Specific
 
-Install / setup [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)(I use Ubuntu 18.04 LTS)
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (I use Ubuntu 18.04 LTS)
 
 ##### Guides:
 
