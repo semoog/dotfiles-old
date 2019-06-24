@@ -54,6 +54,8 @@ Use the `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull
 
 ---
 
+## Customization
+
 ### Terminal
 
 **Terminal**: [iTerm2](https://iterm2.com/), [Hyper](https://hyper.is/) or [Cmder](https://cmder.net/) on Windows
@@ -66,7 +68,7 @@ Use the `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull
  
 ### Editor
 
-**Editor**: [Spacemacs](http://spacemacs.org/)
+**Editor**: [Spacemacs](http://spacemacs.org/) or [VSCode](https://code.visualstudio.com/)
 
 **Color Scheme**: some variation of tomorrow night ([doom](https://github.com/hlissner/emacs-doom-themes), [base16](https://github.com/chriskempson/base16)) or base16 eighties
 
