@@ -56,7 +56,7 @@ Use the `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull
 
 ### Terminal
 
-**Terminal**: [iTerm2](https://iterm2.com/) or [Cmder](https://cmder.net/) on Windows
+**Terminal**: [iTerm2](https://iterm2.com/), [Hyper](https://hyper.is/) or [Cmder](https://cmder.net/) on Windows
 
 **Prompt**: [Spaceship](https://github.com/denysdovhan/spaceship-prompt/)
 
