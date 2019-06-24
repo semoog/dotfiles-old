@@ -2,7 +2,7 @@
 
 # Personal Dotfile Setup
 
-### Dependencies:
+## Dependencies:
 
 - [git](https://git-scm.com/)
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Setup:
+## Setup:
 
 [gist](https://gist.github.com/semoog/0fe4880781faa9eb2676b2455a619f87)
 
