@@ -1,6 +1,6 @@
 <img src="http://icons.iconarchive.com/icons/danleech/simple/1024/slashdot-icon.png" alt="Dotfiles" width="250"/>
 
-# Personal Dotfile Setup
+# Dotfiles
 
 ## Dependencies:
 
