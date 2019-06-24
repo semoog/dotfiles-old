@@ -24,9 +24,9 @@
 
 ##### Guides:
 
-[WSL / Bash Setup](https://gingter.org/2016/11/16/running-windows-10-ubuntu-bash-in-cmder/)
+- [WSL / Bash Setup](https://gingter.org/2016/11/16/running-windows-10-ubuntu-bash-in-cmder/)
 
-[ZSH Setup](https://gingter.org/2016/08/17/install-and-run-zsh-on-windows/)
+- [ZSH Setup](https://gingter.org/2016/08/17/install-and-run-zsh-on-windows/)
 
 ---
 
@@ -38,7 +38,7 @@
 curl -Lks http://bit.do/semoog_dotfiles_setup | /bin/bash
 ```
 
-Use the new `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull`)
+Use the `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull`)
 
 ---
 
