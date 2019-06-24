@@ -6,9 +6,9 @@
 	program = /usr/local/bin/gpg
 [commit]
 	gpgsign = false
-	template = /Users/semo/.stCommitMsg
+	template = ~/.stCommitMsg
 [core]
-	excludesfile = /Users/semo/.gitignore_global
+	excludesfile = ~/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
