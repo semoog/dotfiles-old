@@ -20,6 +20,8 @@ Install [oh-my-zsh](https://ohmyz.sh/)
 curl -Lks http://bit.do/semoog_dotfiles_setup | /bin/bash
 ```
 
+Use the new `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull`)
+
 ### Terminal
 
 **Terminal**: [iTerm2](https://iterm2.com/) or [Hyper](https://hyper.is/)
