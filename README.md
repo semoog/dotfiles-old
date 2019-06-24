@@ -72,6 +72,9 @@ Use the `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull
 
 **Color Scheme**: some variation of tomorrow night ([doom](https://github.com/hlissner/emacs-doom-themes), [base16](https://github.com/chriskempson/base16)) or base16 eighties
 
+<img src="" alt="Mac with Hyper" width="450"/>
+<img src="https://user-images.githubusercontent.com/1973922/59986307-8441b100-95f3-11e9-828b-03222d0f076c.png" alt="WSL with Cmder" width="450"/>
+
 ---
 
 #### Source
