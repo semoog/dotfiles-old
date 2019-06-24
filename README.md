@@ -4,13 +4,31 @@
 
 ### Dependencies:
 
-Install [Homebrew](https://brew.sh)
+Install [git](https://git-scm.com/)
 
-Install git: `brew install git`
-
-Install zsh: `brew install zsh zsh-completions`
+Install [zsh / zsh-completions]()
 
 Install [oh-my-zsh](https://ohmyz.sh/)
+
+---
+
+#### Mac Specific
+
+Install [Homebrew](https://brew.sh)
+
+---
+
+#### Windows Specific
+
+Install / setup [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)(I use Ubuntu 18.04 LTS)
+
+##### Guides:
+
+[WSL / Bash Setup](https://gingter.org/2016/11/16/running-windows-10-ubuntu-bash-in-cmder/)
+
+[ZSH Setup](https://gingter.org/2016/08/17/install-and-run-zsh-on-windows/)
+
+---
 
 ### Setup:
 
@@ -22,6 +40,8 @@ curl -Lks http://bit.do/semoog_dotfiles_setup | /bin/bash
 
 Use the new `dotfiles` alias to manage this repo (i.e `dotfiles status / push / pull`)
 
+---
+
 ### Terminal
 
 **Terminal**: [iTerm2](https://iterm2.com/) or [Hyper](https://hyper.is/)
@@ -32,7 +52,7 @@ Use the new `dotfiles` alias to manage this repo (i.e `dotfiles status / push / 
 
 **Font**: Fira Code or Source Code Pro
  
-### Editors
+### Editor
 
 **Editor**: [Spacemacs](http://spacemacs.org/)
 
